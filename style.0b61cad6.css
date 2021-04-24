@@ -1,0 +1,2 @@
+body{margin:0;box-sizing:border-box}.stars{display:flex;padding:2px 1px;margin-bottom:-4px}.stars__star{height:15px;width:15px;background-image:url(star.040e0f1e.svg);margin-right:4px}.active,.stars__star{background-repeat:no-repeat;background-position:0 0}.active,.stars--1 .stars__star:first-child,.stars--2 .stars__star:not(:nth-child(n+3)),.stars--3 .stars__star:not(:nth-child(n+4)),.stars--4 .stars__star:not(:nth-child(n+5)),.stars--5 .stars__star:not(:nth-child(n+6)){background-image:url(star-active.3d99ddfd.svg)}
+/*# sourceMappingURL=style.0b61cad6.css.map */
